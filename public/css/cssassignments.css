@@ -1,0 +1,59 @@
+.main-table {
+	border: 1px solid black;
+
+}
+#assign1 h1 {
+	color: red;
+	size: 30;
+	font-family: cursive;
+}
+#assign1 p {
+	size: 15;
+	font-family: sans-serif;
+	color: darkblue;
+}
+
+#assign2 div {
+	background-color: blue;
+	color: white;
+	padding :50px;
+	font-weight: bold;
+}
+
+#assign3 h1{
+	border-style: groove;
+	border-color: brown;
+	border-width: 10px;
+	background-color: blue;
+	color: white;
+}
+
+#assign4 div{
+	border-style: groove;
+	border-color: brown;
+	border-width: 5px;
+	background-color: blue;
+	color: white;
+	padding: 50px;
+	margin: 100px;
+}
+
+#assign5 h1 {
+	color: blue;
+}
+
+#assign6 h1 {
+	color: blue;
+}
+
+#assign6 img {
+	border-style: solid;
+	border-width: 3px;
+}
+
+#topbutton {
+	position: fixed;
+	bottom: 0px;
+  	right: 0px;
+
+}
